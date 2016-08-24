@@ -14,7 +14,7 @@
     -Manually by users.
     -Imported using the import wizard for leads
     -Imported via API
-    -Captured via **web-to-lead**
+    -Captured via web-to-lead
     
 ##Lifecyle of a lead
     -Receive by some entry point like web
@@ -33,7 +33,7 @@
         -When you create a queue, a view is *automatically* added to the lead home page.
             
         -Members of the queue are free to accept leads from the queue
-
+        
         -Queue are associated to leads e and accounts **ONLY**
         
 ##Assignment Rules
